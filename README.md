@@ -1,5 +1,6 @@
 <!-- Profile Banner -->
-![Om Solanki](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,5,7,9,11&height=250&section=header&text=Om%20Solanki&fontSize=60&fontAlignY=35&fontColor=ffffff&animation=twinkling&desc=🚀%20Full%20Stack%20Python%20Developer%0A🌐%20Open%20Source%20Contributor%0A💡%20AI%20%26%20Blockchain%20Explorer&descAlignY=70&descSize=18)
+![Om Solanki Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,5,7,9,11&height=250&section=header&text=Om%20Solanki&fontSize=60&fontAlignY=35&fontColor=ffffff&animation=twinkling&desc=🚀%20Full%20Stack%20Python%20Developer%0A🌐%20Open%20Source%20Contributor%0A💡%20AI%20%26%20Blockchain%20Explorer&descAlignY=70&descSize=18)
+
 
 # 👋 Hi, I'm Om Solanki  
 
