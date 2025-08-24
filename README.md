@@ -36,15 +36,15 @@
 
 ## 📊 GitHub Stats & Activity  
 
-![Om's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?u  ser=your-username&theme=radical)  
+![Om's GitHub stats](https://github-readme-stats.vercel.app/api?username=omsolanki777&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omsolanki777&layout=compact&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=omsolanki777&theme=radical)   
 
 ---
 
 ## 📈 Contribution Graph  
 
-![Om's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=react-dark&bg_color=20232a&hide_border=true)
+![Om's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=omsolanki777&theme=react-dark&bg_color=20232a&hide_border=true)
 
 ---
 
@@ -67,7 +67,7 @@
 
 ## 👀 Profile Visitors  
 
-![Visitor Count](https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=0e75b6&style=flat)
+![Visitor Count](https://komarev.com/ghpvc/?username=omsolanki777&label=Profile%20Views&color=0e75b6&style=flat)
 
 ---
 
